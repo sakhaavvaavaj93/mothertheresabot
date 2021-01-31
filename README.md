@@ -2,7 +2,7 @@
 
 you can find out on telegram 
 
-[!(https://telegra.ph/file/4d35877a858bff2f5a0f2.jpg)(@nightingale_official_bot)]
+[!(https://telegra.ph/file/4d35877a858bff2f5a0f2.jpg)(http://t.me/nightingale_official_bot)]
 
 
 # Use at your own risk
