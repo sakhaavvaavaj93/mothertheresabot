@@ -5,8 +5,6 @@ from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.error import BadRequest
 from telegram.ext import CommandHandler, run_async, Filters
 from telegram.utils.helpers import escape_markdown
-
-import nightingale.modules.sql.rules_sql as sql
 from nightingale import dispatcher
 from nightingale.modules.helper_funcs.chat_status import user_admin
 from nightingale.modules.helper_funcs.string_handling import markdown_parser
