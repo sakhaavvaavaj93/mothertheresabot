@@ -4,7 +4,7 @@ you can find out on telegram
 
 # ![https://telegra.ph/file/8a32659c00a340bfd32bf.jpg]
 
-## [https://t.me/nightingale_official_bot]
+## ![bot](https://t.me/nightingale_official_bot)
 
 # Use at your own risk
 
