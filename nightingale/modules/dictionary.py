@@ -2,7 +2,7 @@ import requests
 from telegram import Bot, Message, Update, ParseMode
 from telegram.ext import CommandHandler, run_async
 
-from tg_bot import dispatcher
+from nightingale import dispatcher
 
 
 @run_async
