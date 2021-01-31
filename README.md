@@ -7,7 +7,7 @@ you can find out on telegram
 # Use at your own risk
 
 
-[![Contact me](https://t.me/oru_bhadrakali_daasan)]
+[[Contact me](https://t.me/oru_bhadrakali_daasan)]
 
  
 
