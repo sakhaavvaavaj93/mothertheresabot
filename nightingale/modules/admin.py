@@ -16,7 +16,7 @@ from nightingale.modules.helper_funcs.chat_status import bot_admin, can_promote,
 from nightingale.modules.helper_funcs.extraction import extract_user, extract_user_and_text
 from nightingale.modules.log_channel import loggable
 from nightingale.modules.connection import connected
-from nightingale.modules.translations.strings import tld
+
 
 @run_async
 @bot_admin
