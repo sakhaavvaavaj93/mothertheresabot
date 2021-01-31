@@ -2,12 +2,12 @@
 
 you can find out on telegram 
 
-## [![deploy](https://telegra.ph/file/4d35877a858bff2f5a0f2.jpg)](https://t.me/nightingale_official_bot)]
+## [![(https://telegra.ph/file/4d35877a858bff2f5a0f2.jpg)](https://t.me/nightingale_official_bot)]
 
 # Use at your own risk
 
 
-[Contact me](https://t.me/oru_bhadrakali_daasan)
+[![Contact me](https://t.me/oru_bhadrakali_daasan)]
 
  
 
